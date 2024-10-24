@@ -1,0 +1,4 @@
+- pipeline: jnrutaervo
+  refs:
+  - refs/heads/master
+  on: CLICK
